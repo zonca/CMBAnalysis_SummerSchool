@@ -1,3 +1,6 @@
 numpy
+healpy
+camb
+ipykernel
 matplotlib
 astropy
