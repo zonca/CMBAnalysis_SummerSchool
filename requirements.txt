@@ -1,8 +1,9 @@
 numpy
-healpy
 camb
 ipykernel
 matplotlib
 astropy
+# optional packages
+healpy
 pysm3
 pixell
