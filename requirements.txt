@@ -5,3 +5,4 @@ ipykernel
 matplotlib
 astropy
 pysm3
+pixell
