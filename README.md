@@ -1,4 +1,4 @@
-# CMBAnalysis Summer School
+# CMB Analysis Tutorial
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zonca/CMBAnalysis_SummerSchool/cmb_cal_2024?labpath=CMB_School_Part_01-CMB.ipynb)
 
