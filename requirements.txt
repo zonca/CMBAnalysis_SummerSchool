@@ -4,3 +4,4 @@ camb
 ipykernel
 matplotlib
 astropy
+pysm3
